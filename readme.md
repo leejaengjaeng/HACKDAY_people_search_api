@@ -1,4 +1,4 @@
-## people-search-api  _이재영
+## people-search-api  _이재영 (수정 전)
     제공된 인물 키워드를 바탕으로 네이버 인물 정보 영역을 크롤링합니다.
     요청된 인물 정보에 맞는 인물 리스트와 정보를 JSON 형식으로 Response 해줍니다.
   
